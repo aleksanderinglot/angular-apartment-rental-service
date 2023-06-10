@@ -1,1 +1,8 @@
 <app-header></app-header>
+<div class="container">
+  <h2 class="welcome-heading">Welcome to Apartment Rental Service</h2>
+  <ng-container *ngIf="!userLoggedIn">
+    <p>Please log in or register to continue.</p>
+  </ng-container>
+  <router-outlet></router-outlet>
+</div>
