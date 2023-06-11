@@ -1,27 +1,54 @@
-# ApartmentRentalService
+# Apartment Rental Service (Frontend)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
+Apartment Rental Service is a web application developed using Angular. It serves as the frontend part of the Apartment Rental Service, which allows users to register, log in, browse apartments for rent, rent apartments for specific dates, and manage their bookings.
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+The frontend application provides the following features:
 
-## Code scaffolding
+- User registration and login: New users can create an account and log in to the application.
+- List Apartments: Users can view a list of available apartments for rent.
+- Rent Apartment: Users can rent an apartment for a specific range of dates.
+- Manage Bookings: Users can view and manage their apartment bookings, including editing or canceling bookings.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Technologies Used
 
-## Build
+- Angular
+- TypeScript
+- HTML
+- CSS
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Backend Code
 
-## Running unit tests
+https://github.com/aleksanderinglot/apartment-rental-service
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Getting Started
 
-## Running end-to-end tests
+These instructions will help you get a copy of the frontend project up and running on your local machine for development and testing purposes.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Prerequisites
 
-## Further help
+To run the frontend application, you need to have the following prerequisites installed on your system:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Node.js: Make sure you have Node.js installed. You can download it from the official website: [Node.js](https://nodejs.org).
+
+### Installation
+
+Follow these steps to install and run the frontend application:
+
+1. Clone the repository: `git clone https://github.com/aleksanderinglot/angular-apartment-rental-service.git`
+2. Navigate to the project directory: `cd angular-apartment-rental-service`
+3. Install dependencies: Run `npm install` to install the required dependencies.
+4. Start the application: Run `ng serve` to start the application on the local development server.
+5. Open a web browser and visit `http://localhost:4200` to access the application.
+
+## Screenshots
+
+Below are some screenshots of the frontend application:
+
+![Registration](src/assets/screenshots/registration_screenshot.png)
+![Login](src/assets/screenshots/login_screenshot.png)
+![Apartments](src/screenshots/apartments_screenshot.png)
+![Rent](src/screenshots/rent_screenshot.png)
+![Reservations](src/screenshots/reservations_screenshot.png)
+![Edit Booking](src/screenshots/edit_screenshot.png)
