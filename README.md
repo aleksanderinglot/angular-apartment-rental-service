@@ -46,9 +46,9 @@ Follow these steps to install and run the frontend application:
 
 Below are some screenshots of the frontend application:
 
-![Registration](src/assets/screenshots/registration_screenshot.png)
-![Login](src/assets/screenshots/login_screenshot.png)
-![Apartments](src/screenshots/apartments_screenshot.png)
-![Rent](src/screenshots/rent_screenshot.png)
-![Reservations](src/screenshots/reservations_screenshot.png)
-![Edit Booking](src/screenshots/edit_screenshot.png)
+![Registration](src/assets/registration_screenshot.png)
+![Login](src/assets/login_screenshot.png)
+![Apartments](src/assets/apartments_screenshot.png)
+![Rent](src/assets/rent_screenshot.png)
+![Reservations](src/assets/reservations_screenshot.png)
+![Edit Booking](src/assets/edit_screenshot.png)
