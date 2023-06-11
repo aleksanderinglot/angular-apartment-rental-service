@@ -20,7 +20,7 @@ The frontend application provides the following features:
 
 ## Backend Code
 
-https://github.com/aleksanderinglot/apartment-rental-service
+https://github.com/aleksanderinglot/spring-boot-apartment-rental-service
 
 ## Getting Started
 
